@@ -1,0 +1,14 @@
+C:\Users\smuzd\source\repos\OOP_L4\bin\Debug\OOP_L4.exe.config
+C:\Users\smuzd\source\repos\OOP_L4\bin\Debug\OOP_L4.exe
+C:\Users\smuzd\source\repos\OOP_L4\bin\Debug\OOP_L4.pdb
+C:\Users\smuzd\source\repos\OOP_L4\obj\Debug\OOP_L4.csprojAssemblyReference.cache
+C:\Users\smuzd\source\repos\OOP_L4\obj\Debug\OOP_L4.csproj.CoreCompileInputs.cache
+C:\Users\smuzd\source\repos\OOP_L4\obj\Debug\OOP_L4.exe
+C:\Users\smuzd\source\repos\OOP_L4\obj\Debug\OOP_L4.pdb
+A:\BSTU\2nd\СТПМС\OOP_L4\bin\Debug\OOP_L4.exe.config
+A:\BSTU\2nd\СТПМС\OOP_L4\bin\Debug\OOP_L4.exe
+A:\BSTU\2nd\СТПМС\OOP_L4\bin\Debug\OOP_L4.pdb
+A:\BSTU\2nd\СТПМС\OOP_L4\obj\Debug\OOP_L4.csprojAssemblyReference.cache
+A:\BSTU\2nd\СТПМС\OOP_L4\obj\Debug\OOP_L4.csproj.CoreCompileInputs.cache
+A:\BSTU\2nd\СТПМС\OOP_L4\obj\Debug\OOP_L4.exe
+A:\BSTU\2nd\СТПМС\OOP_L4\obj\Debug\OOP_L4.pdb

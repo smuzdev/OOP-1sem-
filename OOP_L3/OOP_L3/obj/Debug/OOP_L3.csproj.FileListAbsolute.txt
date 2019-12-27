@@ -1,0 +1,7 @@
+C:\Users\smuzd\bstu\СТПМС\OOP_L3\OOP_L3\bin\Debug\OOP_L3.exe.config
+C:\Users\smuzd\bstu\СТПМС\OOP_L3\OOP_L3\bin\Debug\OOP_L3.exe
+C:\Users\smuzd\bstu\СТПМС\OOP_L3\OOP_L3\bin\Debug\OOP_L3.pdb
+C:\Users\smuzd\bstu\СТПМС\OOP_L3\OOP_L3\obj\Debug\OOP_L3.csprojAssemblyReference.cache
+C:\Users\smuzd\bstu\СТПМС\OOP_L3\OOP_L3\obj\Debug\OOP_L3.csproj.CoreCompileInputs.cache
+C:\Users\smuzd\bstu\СТПМС\OOP_L3\OOP_L3\obj\Debug\OOP_L3.exe
+C:\Users\smuzd\bstu\СТПМС\OOP_L3\OOP_L3\obj\Debug\OOP_L3.pdb

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHuman xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Human>
+    <LifeLength>100</LifeLength>
+    <Name>Misha</Name>
+    <Sex>Man</Sex>
+    <Age>20</Age>
+    <IQ>180</IQ>
+  </Human>
+  <Human>
+    <LifeLength>100</LifeLength>
+    <Name>Valera</Name>
+    <Sex>Man</Sex>
+    <Age>20</Age>
+    <IQ>100</IQ>
+    <Permission>Yes</Permission>
+  </Human>
+</ArrayOfHuman>

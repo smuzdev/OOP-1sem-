@@ -1,0 +1,14 @@
+C:\Users\smuzd\source\repos\OOP_L2\OOP_L2\obj\Debug\OOP_L2.csprojAssemblyReference.cache
+C:\Users\smuzd\source\repos\OOP_L2\OOP_L2\obj\Debug\OOP_L2.csproj.CoreCompileInputs.cache
+C:\Users\smuzd\source\repos\OOP_L2\OOP_L2\bin\Debug\OOP_L2.exe.config
+C:\Users\smuzd\source\repos\OOP_L2\OOP_L2\bin\Debug\OOP_L2.exe
+C:\Users\smuzd\source\repos\OOP_L2\OOP_L2\bin\Debug\OOP_L2.pdb
+C:\Users\smuzd\source\repos\OOP_L2\OOP_L2\obj\Debug\OOP_L2.exe
+C:\Users\smuzd\source\repos\OOP_L2\OOP_L2\obj\Debug\OOP_L2.pdb
+C:\Users\smuzd\bstu\СТПМС\OOP_L2\OOP_L2\bin\Debug\OOP_L2.exe.config
+C:\Users\smuzd\bstu\СТПМС\OOP_L2\OOP_L2\bin\Debug\OOP_L2.exe
+C:\Users\smuzd\bstu\СТПМС\OOP_L2\OOP_L2\bin\Debug\OOP_L2.pdb
+C:\Users\smuzd\bstu\СТПМС\OOP_L2\OOP_L2\obj\Debug\OOP_L2.csprojAssemblyReference.cache
+C:\Users\smuzd\bstu\СТПМС\OOP_L2\OOP_L2\obj\Debug\OOP_L2.csproj.CoreCompileInputs.cache
+C:\Users\smuzd\bstu\СТПМС\OOP_L2\OOP_L2\obj\Debug\OOP_L2.exe
+C:\Users\smuzd\bstu\СТПМС\OOP_L2\OOP_L2\obj\Debug\OOP_L2.pdb

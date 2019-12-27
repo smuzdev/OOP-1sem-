@@ -1,0 +1,13 @@
+D:\БГТУ 2 курс\OOP\Лабы\lab14\lab14\lab14\obj\Debug\lab14.csprojAssemblyReference.cache
+D:\БГТУ 2 курс\OOP\Лабы\lab14\lab14\lab14\obj\Debug\lab14.csproj.CoreCompileInputs.cache
+D:\БГТУ 2 курс\OOP\Лабы\lab14\lab14\lab14\bin\Debug\lab14.exe.config
+D:\БГТУ 2 курс\OOP\Лабы\lab14\lab14\lab14\bin\Debug\lab14.exe
+D:\БГТУ 2 курс\OOP\Лабы\lab14\lab14\lab14\bin\Debug\lab14.pdb
+D:\БГТУ 2 курс\OOP\Лабы\lab14\lab14\lab14\obj\Debug\lab14.exe
+D:\БГТУ 2 курс\OOP\Лабы\lab14\lab14\lab14\obj\Debug\lab14.pdb
+D:\Лабы\VLAD\lab14\lab14\bin\Debug\lab14.exe.config
+D:\Лабы\VLAD\lab14\lab14\bin\Debug\lab14.exe
+D:\Лабы\VLAD\lab14\lab14\bin\Debug\lab14.pdb
+D:\Лабы\VLAD\lab14\lab14\obj\Debug\lab14.csprojAssemblyReference.cache
+D:\Лабы\VLAD\lab14\lab14\obj\Debug\lab14.exe
+D:\Лабы\VLAD\lab14\lab14\obj\Debug\lab14.pdb

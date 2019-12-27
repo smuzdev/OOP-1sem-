@@ -1,0 +1,7 @@
+A:\BSTU\2 курс\СТПМС\OOP_L5\bin\Debug\OOP_L5.exe.config
+A:\BSTU\2 курс\СТПМС\OOP_L5\bin\Debug\OOP_L5.exe
+A:\BSTU\2 курс\СТПМС\OOP_L5\bin\Debug\OOP_L5.pdb
+A:\BSTU\2 курс\СТПМС\OOP_L5\obj\Debug\OOP_L5.csproj.CoreCompileInputs.cache
+A:\BSTU\2 курс\СТПМС\OOP_L5\obj\Debug\OOP_L5.exe
+A:\BSTU\2 курс\СТПМС\OOP_L5\obj\Debug\OOP_L5.pdb
+A:\BSTU\2 курс\СТПМС\OOP_L5\obj\Debug\OOP_L5.csprojAssemblyReference.cache
