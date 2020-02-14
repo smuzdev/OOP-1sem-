@@ -1,1 +1,2 @@
-# OOP_Labs-1sem-
+# OOP labs (the 1st semester)
+Labs for subject "Object oriented programming"
